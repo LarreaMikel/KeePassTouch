@@ -1,1 +1,4 @@
 /.project
+
+*.pro.user
+*.pro.user.*
