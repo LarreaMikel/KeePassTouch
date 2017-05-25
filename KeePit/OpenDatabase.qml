@@ -18,13 +18,13 @@
 * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
-import QtQuick 2.0
+import QtQuick 2.4
 import QtQuick.LocalStorage 2.0
 import QtGraphicalEffects 1.0
-import Ubuntu.Components 1.2
-import Ubuntu.Components.ListItems 1.0
-import Ubuntu.Components.Popups 1.0
-import Ubuntu.Components.ListItems 1.0 as ListItem
+import Ubuntu.Components 1.3
+import Ubuntu.Components.ListItems 1.3
+import Ubuntu.Components.Popups 1.3
+import Ubuntu.Components.ListItems 1.3 as ListItem
 import Qt.labs.folderlistmodel 2.1
 
 //import KeePass 1.0

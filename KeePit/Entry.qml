@@ -18,9 +18,9 @@
 * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
-import QtQuick 2.0
-import Ubuntu.Components 1.2
-import Ubuntu.Components.Popups 1.2
+import QtQuick 2.4
+import Ubuntu.Components 1.3
+import Ubuntu.Components.Popups 1.3
 import KeePass3 1.0
 
 Page {
